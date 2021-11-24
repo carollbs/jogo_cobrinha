@@ -1,0 +1,25 @@
+body{
+  height: 90vh;
+  width: 95vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-left: 350px;
+}
+
+
+.title{
+  text-align: center;
+  font-size: 20px;
+  font-family: "courier new";
+  padding-top: 30px;
+  padding-bottom: 8px;
+  color: #00610e;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+body{
+  background: #00b247;
+}
